@@ -1,0 +1,16 @@
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\bin\Debug\net8.0-windows\Calculator_Act.exe
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\bin\Debug\net8.0-windows\Calculator_Act.deps.json
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\bin\Debug\net8.0-windows\Calculator_Act.runtimeconfig.json
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\bin\Debug\net8.0-windows\Calculator_Act.dll
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\bin\Debug\net8.0-windows\Calculator_Act.pdb
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\obj\Debug\net8.0-windows\Calculator_Act.csproj.GenerateResource.cache
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\obj\Debug\net8.0-windows\Calculator_Act.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\obj\Debug\net8.0-windows\Calculator_Act.AssemblyInfoInputs.cache
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\obj\Debug\net8.0-windows\Calculator_Act.AssemblyInfo.cs
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\obj\Debug\net8.0-windows\Calculator_Act.csproj.CoreCompileInputs.cache
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\obj\Debug\net8.0-windows\Calculator_Act.dll
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\obj\Debug\net8.0-windows\refint\Calculator_Act.dll
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\obj\Debug\net8.0-windows\Calculator_Act.pdb
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\obj\Debug\net8.0-windows\Calculator_Act.genruntimeconfig.cache
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\obj\Debug\net8.0-windows\ref\Calculator_Act.dll
+C:\Users\Yrael\source\repos\Calculator_Act\Calculator_Act\obj\Debug\net8.0-windows\Calculator_Act.Calculator.resources
